@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical"
+              android:layout_width="match_parent"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_height="match_parent">
+    <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            card_view:cardCornerRadius="4dp">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <ImageView
+                    android:layout_gravity="center"
+                    tools:ignore="ContentDescription,RtlHardcoded,RtlSymmetry"
+                    android:id="@+id/image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="270dp"
+                    android:paddingRight="10dp"
+                    android:src="@mipmap/ic_launcher"/>
+            <TextView
+                    android:autoLink="all"
+                    android:gravity="center"
+                    android:text=""
+                    android:layout_width="match_parent"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content" android:id="@+id/name"/>
+            <TextView
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp"
+                    android:textStyle="italic"
+                    android:text=""
+                    android:layout_width="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_height="wrap_content" android:id="@+id/descriptions"/>
+            <TextView
+                    android:paddingBottom="3dp"
+                    android:gravity="center"
+                    android:text=""
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/number"/>
+            <TextView
+                    android:gravity="center"
+                    android:text=""
+                    android:paddingBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/place"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_coffee"
+                android:icon="@drawable/coffee"
+                android:title="@string/coffee"/>
+        <item
+                android:id="@+id/nav_restaurant"
+                android:icon="@drawable/restaurant"
+                android:title="@string/restaurant"/>
+        <item
+                android:id="@+id/nav_hotel"
+                android:icon="@drawable/hotel"
+                android:title="@string/hotel"/>
+        <item
+                android:id="@+id/nav_sightseeing"
+                android:icon="@drawable/sightseeing"
+                android:title="@string/Sightseeing"/>
+    </group>
+</menu>

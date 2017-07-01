@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tunisia Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_h_Tn">Tunisia Guide</string>
+    <string name="tn">Tunisia is a North African country bordering the Mediterranean Sea and Sahara Desert. In the capital, Tunis, the Bardo Museum has archaeological exhibits from Roman mosaics to Islamic art. The city’s medina quarter encompasses the massive Al-Zaytuna Mosque and a thriving souk. To the east, the site of ancient Carthage features the Antonine Baths and other ruins, plus artifacts at the Carthage National Museum.</string>
+    <string name="action_settings">Settings</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="coffee">Coffee Shop</string>
+    <string name="hotel">Hotel</string>
+    <string name="Sightseeing">Sightseeing</string>
+    <string name="co_na_1">Cafe Sidi Chebaane</string>
+    <string name="co_des_1">it is a place that is safe and welcoming and the experiences one can have at a café such as this allows one to be truly immersed in the pleasant gastronomic and cultural harmony of such an ancient and panoramic land.</string>
+    <string name="co_pl_1"> Bou Said , Tunis, Tunisia</string>
+    <string name="co_tel_1">(+216) 29 623 758</string>
+    <string name="co_na_2">Diar Al Andalous Moorish</string>
+    <string name="co_des_2"> Diar El Andalous (refurbished in 2012) is nestled in a remarkable fusion of exotic gardens next to a long sandy beach lapped by the waters of the Mediterranean.</string>
+    <string name="co_pl_2">Medina, Tunis, Tunisia</string>
+    <string name="co_tel_2">(+216) 73 246 200</string>
+    <string name="co_na_3">Cafe El M’rabet</string>
+    <string name="co_des_3">Cafe El M’rabet. Inside it feels like an Arabian palace. Guests sit on carpets and cushions around low tables, under high ceilings supported by beautifully carved pillars.</string>
+    <string name="co_pl_3">Souk Medina, Tunis, Tunisia</string>
+    <string name="co_tel_3">(+216) 93 42 08 95</string>
+    <string name="co_na_4">Coffee News</string>
+    <string name="co_des_4">Cafe El M’rabet. Inside it feels like an Arabian palace. Guests sit on carpets and cushions around low tables, under high ceilings supported by beautifully carved pillars.</string>
+    <string name="co_pl_4">Cartage, Tunis, Tunisia</string>
+    <string name="co_tel_4">(+216) 24 896 345</string>
+    <string name="res_na_1">Restaurant News</string>
+    <string name="res_des_1">Cafe El Restaurant. Inside it feels like an Arabian palace. Guests sit on carpets and cushions around low tables, under high ceilings supported by beautifully carved pillars.</string>
+    <string name="res_pl_1">Tunis, Tunisia</string>
+    <string name="res_tel_1">(+216) 24 896 345</string>
+    <string name="hot_na_1">Hotel News</string>
+    <string name="hot_des_1">Cafe El Restaurant. Inside it feels like an Arabian palace. Guests sit on carpets and cushions around low tables, under high ceilings supported by beautifully carved pillars.</string>
+    <string name="hot_pl_1">Tunis, Tunisia</string>
+    <string name="hot_tel_1">(+216) 24 896 345</string>
+    <string name="seg_na_1">Sightseeing Places</string>
+    <string name="seg_des_1">Cafe El Restaurant. Inside it feels like an Arabian palace. Guests sit on carpets and cushions around low tables, under high ceilings supported by beautifully carved pillars.</string>
+    <string name="seg_pl_1">Tunis, Tunisia</string>
+    <string name="seg_tel_1">(+216) 24 896 345</string>
+</resources>
+
+
